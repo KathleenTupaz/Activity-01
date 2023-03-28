@@ -6,5 +6,5 @@ print("Failures are redirections :), hello urios")
 
 print("Failures are redirections :), hello urios, goodbye")
 
-print("if they put their heart into it, anyone can be a gourmet")
+print("if they put their heart into it, anyone can be a cook/gourmet")
 
