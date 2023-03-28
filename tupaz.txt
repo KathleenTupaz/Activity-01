@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print("Failures are redirections :), hello urios")
+=======
+print("Failures are redirections :), hello urios")
+>>>>>>> b7ad78818628a8a55a15e8fc48fb5610bd29b206
